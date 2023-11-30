@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/PW-8/PW_8_2/cmake-build-debug/CMakeFiles/PW_8_2.dir
+/home/vboxuser/Desktop/PW-8/PW_8_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/PW-8/PW_8_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
